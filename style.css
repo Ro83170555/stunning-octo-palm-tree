@@ -1,0 +1,41 @@
+html, body
+    margin: 0;
+}
+#imagem_fundo {
+    background:;
+    height: 100%;
+    text-align: centerhtml, body 
+       margin: 10;
+
+}
+#titulo {
+    color: blueviolet;
+    padding-top: 20%;
+    font-size: 70px;
+    line-height: 0.6;
+    
+}
+#subtitulo {
+    color: blueviolet;
+    margin-left: 20%;
+    margin-right: 20%;
+    border-top: 3px solid white;
+    text-shadow: 1px 1px  black;
+}
+#acao {
+    color: blueviolet;
+    border: 1px white solid;
+    padding: 10px 20px 10px 20px ;
+}html, body {
+    margin: 0
+}
+#titulo {
+    color: black;
+    padding-top: 20%;
+    font-size: 70px;
+    line-height: 0.6;
+    
+}
+
+}
+}
